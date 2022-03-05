@@ -43,7 +43,6 @@ namespace PollyClientASP.Controllers
             {
                 return StatusCode(500);
             }
-            return StatusCode(400);
         }
     }
 }
